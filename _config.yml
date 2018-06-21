@@ -1,8 +1,8 @@
 # Site settings
 title: Jaleo
 description: 'Flamenco guitar duo.'
-url: 'http://www.jaleo.co.uk/'
-baseurl: '/jaleo'
+url: 'http://www.jaleo.co.uk'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
