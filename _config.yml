@@ -2,7 +2,7 @@
 title: Jaleo
 description: 'Flamenco guitar duo.'
 url: 'http://www.jaleo.co.uk'
-baseurl: '/'
+# baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
